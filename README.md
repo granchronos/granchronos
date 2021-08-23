@@ -1,4 +1,5 @@
 ### Hi, I’m Antony 👋
+
 ## Fullstack Developer in Java 7,8,11, Spring Frameworks, Angular 4+, React, React Native, NodeJS
 - 👀 I’m interested in ...
 - 🌱 I’m currently working as a Technical Leader and Developer Engineer
@@ -33,8 +34,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Gitkraken" width="26px" src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" />
-<!---
-granchronos/granchronos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Leon's github stats](https://github-readme-stats.vercel.app/api?username=leonmatias2015&show_icons=true&theme=dracula&hide=stars,issues)
+
+
+
+![Antony's github stats](https://github-readme-stats.vercel.app/api?username=granchronos&show_icons=true&theme=dracula&hide=stars,issues)
+
